@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboarSButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="✨ Sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
